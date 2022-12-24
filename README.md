@@ -1,5 +1,6 @@
 # NBA_Game_Win_Prediction
-![alt text](hhttps://a.espncdn.com/photo/2022/1014/fc_nba_gm_1296x729.jpg)
+![nba_preview](https://user-images.githubusercontent.com/81161901/209445307-b14d368b-b654-4893-85ff-8f4e47eeb6a3.jpg)
+
 
 ** Following is the implementation of a combined web scraping and machine learning project to predict Nba games using Basketball reference data - https://www.basketball-reference.com/
 
